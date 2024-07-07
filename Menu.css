@@ -1,0 +1,21 @@
+.dash{
+    display:inline-block;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:0vw;
+    margin-top:0vw;
+    position:
+}
+.dash-img{
+    display:inline-block;
+    width:3vw;
+    margin-left:1vw;
+}
+.item{
+
+    margin-top:20px;
+    margin-left:49px;
+    margin-right:52px;
+    padding:8px;
+    color:grey;
+}

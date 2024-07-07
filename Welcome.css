@@ -1,0 +1,20 @@
+.wel{
+    width:60vw;
+    height: 30vh;
+    margin-top:5vh;
+    margin-left:10vw;
+    background: linear-gradient(to bottom, rgba(22, 22, 253, 0.8), rgba(150, 150, 215, 0)),
+    url('BACK.jpeg');
+    opacity:0.6;
+    padding:5vw;
+}
+.text{
+    color:rgb(0, 0, 0);
+    font-size:xx-large;
+    text-align: center;
+}
+
+.subtext{
+    color:rgb(6, 6, 6);
+    text-align: center;
+}

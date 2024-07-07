@@ -1,0 +1,53 @@
+
+.edit-img{
+    color:white;
+    width:1.5vw ;
+}
+.profile{
+    border: 5px solid white;
+    border-radius: 100%;
+    width:50%;
+    height:50%;
+    margin-right:4vw;
+    margin-top:2vh;
+}
+span.e{
+    display:block;
+    color: white
+}
+span.e1{
+    display:inline-block;
+}
+.flex{
+    display:flex;
+    justify-content: flex-end;
+}
+.name{
+    color:white;
+    margin-right:6.4vw;
+    margin-top:0vh;
+}
+.text{
+    color:white;
+}
+.group{
+    border: 1px solid white;
+    border-radius:8px;
+    margin-top:20px;
+    margin-left:49px;
+    margin-right:52px;
+    padding:5px;
+}
+.g-icon{
+    width: 1.5vw ;
+}
+span.f{
+    display:inline-block;
+}
+span.g-text{
+    margin-right:1vw;
+    margin-top:-1vh;
+    margin-left:0.6vw;
+    margin-bottom:3vh;
+}
+  

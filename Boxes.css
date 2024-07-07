@@ -1,0 +1,56 @@
+/* General reset for margins, padding, and box-sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Container for the top section */
+  .top {
+    display: flex;
+    justify-content: space-around; /* Distribute space around the items */
+    align-items: center; /* Align items vertically */
+  }
+  
+  /* Common styles for box elements */
+  .box1, .box2, .box3 {
+    display: flex;
+    justify-content: center;
+    width: 20vw;
+    height: 30vh;
+    margin-top: 20px;
+    box-shadow: 10px 10px 5px lightblue;
+  }
+  
+  .one {
+    width: 19.9vw;
+    height: 20vh;
+    background: linear-gradient(to left, rgba(4, 4, 231, 0.8), rgba(234, 234, 240, 0));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Ensuring the image does not add extra margin/padding */
+  .img1 {
+    width: 5vw;
+    display: block; /* Remove inline spacing */
+    margin: 0; /* Reset default margin */
+  }
+  .two{
+    width: 19.9vw;
+    height: 20vh;
+    background: linear-gradient(to left, rgba(231, 64, 4, 0.8), rgba(234, 234, 240, 0));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .three{
+    width: 19.9vw;
+    height: 20vh;
+    background: linear-gradient(to left, rgba(57, 231, 4, 0.8), rgba(234, 234, 240, 0));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
